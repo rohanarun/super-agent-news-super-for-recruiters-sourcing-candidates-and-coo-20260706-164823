@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "searchenginejournal.com",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "news.mit.edu",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "forbes.com",
+      "title": "10 Best Applicant Tracking Systems",
+      "url": "https://www.forbes.com/"
+    },
+    {
+      "source": "hrtechseries.com",
+      "title": "uRecruits Launches 2.0 With Recruiter-Controlled AI Agents",
+      "url": "https://hrtechseries.com/"
+    },
+    {
+      "source": "anthropic.com",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super for recruiters sourcing candidates and coordinating interviews|niche_landing|recruiters sourcing candidates and coordinating interviews|2026-07-06T16:47:21.845370+00:00') \u2192 hero_architecture=workflow-command-center, typography=Cabinet Grotesk, components=[workflow-playbook-timeline, source-card-dossier, implementation-checklist], GSAP paradigms=[pinned-chapter-scroll, hover-physics]. AIDA Check: Attention(hero with recruiter workflow promise), Interest(market proof + competitors), Desire(workflow + cache reuse), Action(CTA bands). Font Selection: Cabinet Grotesk from Fontshare. Hero Math Verification: max-width headline clamp ensures 2\u20133 lines on desktop. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded GSAP with ScrollTrigger. Label Sweep & Button Check: all CTAs point to https://app.getsupers.com/general?login=1&open_login=1 with black/white contrast.",
+  "generated_at": "2026-07-06T16:48:30.525689+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion-focused niche landing page showing how recruiters use Super as a personal AI agent to source candidates, operate real recruiting tools, and coordinate interviews faster using a reusable computer-use cache."
+}
